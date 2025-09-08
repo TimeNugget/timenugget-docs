@@ -44,6 +44,16 @@ export default defineConfig({
                 { text: "提示词工程", link: "/Treasures/prompt-engineering" },
               ],
             },
+            {
+              text: "实用网站、平台、工具",
+              collapsed: false,
+              items: [
+                { text: "学习与学术资源", link: "/Treasures/1-学习与学术资源" },
+                { text: "效率与生产力工具", link: "/Treasures/2-效率与生产力工具" },
+                { text: "特色平台与兴趣社区", link: "/Treasures/3-特色平台与兴趣社区" },
+                { text: "职业发展与求职指南", link: "/Treasures/4-职业发展与求职指南" },
+              ],
+            },
           ],
         },
       ],
